@@ -1,0 +1,13 @@
+C:\Users\carit\source\repos\labo4Pinto\obj\Debug\netcoreapp3.1\labo4Pinto.csprojAssemblyReference.cache
+C:\Users\carit\source\repos\labo4Pinto\obj\Debug\netcoreapp3.1\labo4Pinto.csproj.CoreCompileInputs.cache
+C:\Users\carit\source\repos\labo4Pinto\obj\Debug\netcoreapp3.1\labo4Pinto.AssemblyInfoInputs.cache
+C:\Users\carit\source\repos\labo4Pinto\obj\Debug\netcoreapp3.1\labo4Pinto.AssemblyInfo.cs
+C:\Users\carit\source\repos\labo4Pinto\bin\Debug\netcoreapp3.1\labo4Pinto.exe
+C:\Users\carit\source\repos\labo4Pinto\bin\Debug\netcoreapp3.1\labo4Pinto.deps.json
+C:\Users\carit\source\repos\labo4Pinto\bin\Debug\netcoreapp3.1\labo4Pinto.runtimeconfig.json
+C:\Users\carit\source\repos\labo4Pinto\bin\Debug\netcoreapp3.1\labo4Pinto.runtimeconfig.dev.json
+C:\Users\carit\source\repos\labo4Pinto\bin\Debug\netcoreapp3.1\labo4Pinto.dll
+C:\Users\carit\source\repos\labo4Pinto\bin\Debug\netcoreapp3.1\labo4Pinto.pdb
+C:\Users\carit\source\repos\labo4Pinto\obj\Debug\netcoreapp3.1\labo4Pinto.dll
+C:\Users\carit\source\repos\labo4Pinto\obj\Debug\netcoreapp3.1\labo4Pinto.pdb
+C:\Users\carit\source\repos\labo4Pinto\obj\Debug\netcoreapp3.1\labo4Pinto.genruntimeconfig.cache
